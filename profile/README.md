@@ -1,21 +1,22 @@
 ![](/angular-hashnode/src/assets/animation/merge-animation.gif)
 
 # HashnodeNG 
-formerly known as - Angular Headless Hashnode
+#### formerly known as - Angular Headless Hashnode
 ## [![Discord](https://github.com/monacodelisa/icons-and-graphics/blob/main/icomoon/PNG/discord.png?raw=true)](https://discord.gg/3bS3xpCj) Open Source Project 
 
 ## Overview 
 
-The **Angular Headless Hashnode Project** aims to seamlessly connect your Angular application to the Hashnode GraphQL database, providing a template for integrating Angular with a headless Hashnode setup.
+### The **HashnodeNG Project** aims to seamlessly connect your Angular application to the Hashnode GraphQL database, providing a template for integrating Angular with a headless Hashnode setup.
 
-In other words - this project is very much like the starter kit that Hashnode provides, except that this project uses Angular for the frontend and deployment is set to be done through Netlify.
+### In other words - this project is very much like the starter kit that Hashnode provides, except that this project uses Angular for the frontend 
+### so you can use your Hashnode blog with Angular ![angular logo](/profile/angular-new-icon.png)
 
-## Project Goals
+## Project Achievements and Goals
 
-- Develop a flexible template for Angular integration with headless Hashnode.
-- Connect the Angular app to Hashnode's GraphQL database to retrieve posts and blog data.
+- ✅ Develop a flexible template for Angular integration with headless Hashnode.
+- ✅ Connect the Angular app to Hashnode's GraphQL database to retrieve posts and blog data.
+- ✅ Support Angular v17 and up.
 - Responsive layout improvements for different devices
-- Support Angular v17 and up
 
 ## Existing Setup & Features
 
@@ -29,7 +30,7 @@ In other words - this project is very much like the starter kit that Hashnode pr
 | [![angular headless hashnode dark](/profile/angular-headless-hashnode-dark.jpg)](https://hashnodeng.com/) | [![angular headless hashnode light](/profile/angular-headless-hashnode-light.jpg)](https://hashnodeng.com/) |
 | - | - |                         
 
-### You can see the live versions on the [DEMO SITE]()                          
+### You can see the live versions on the [DEMO SITE](https://hashnodeng.com/)                          
 
 ## Angular App Versions
 
