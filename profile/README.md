@@ -1,6 +1,7 @@
 ![](/angular-hashnode/src/assets/animation/merge-animation.gif)
 
-# Angular Headless Hashnode
+# HashnodeNG 
+formerly known as - Angular Headless Hashnode
 ## [![Discord](https://github.com/monacodelisa/icons-and-graphics/blob/main/icomoon/PNG/discord.png?raw=true)](https://discord.gg/3bS3xpCj) Open Source Project 
 
 ## Overview 
