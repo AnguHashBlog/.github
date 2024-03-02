@@ -25,7 +25,7 @@ In other words - this project is very much like the starter kit that Hashnode pr
 
 ## LIVE VERSIONS
 
-| [![angular headless hashnode dark](angular-headless-hashnode-dark.jpg)](https://hashnodeng.com/) | [![angular headless hashnode light](angular-headless-hashnode-light.jpg)](https://hashnodeng.com/) |
+| [![angular headless hashnode dark](/profile/angular-headless-hashnode-dark.jpg)](https://hashnodeng.com/) | [![angular headless hashnode light](/profile/angular-headless-hashnode-light.jpg)](https://hashnodeng.com/) |
 | - | - |                         
 
 ### You can see the live versions on the [DEMO SITE]()                          
