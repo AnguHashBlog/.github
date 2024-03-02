@@ -35,11 +35,11 @@
 
 ## Angular App Versions
 
-#### `angular-v17` - has no UI libraries [LIVE]()                          
+#### `angular-v17` - has no UI libraries
                        
-#### `angular-v17-AnguMAT` - has Angular Material [LIVE]()     
+#### `angular-v17-AnguMAT` - has Angular Material     
 
-#### `angular-v17-PrimeNG` - has PrimeNG [LIVE]()      
+#### `angular-v17-PrimeNG` - has PrimeNG    
 
 ## Contributing
 
