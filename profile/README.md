@@ -1,4 +1,4 @@
-![](/angular-hashnode/src/assets/animation/merge-animation.gif)
+![merge-animation](/profile/merge-animation.gif)
 
 # HashnodeNG 
 #### formerly known as - Angular Headless Hashnode
