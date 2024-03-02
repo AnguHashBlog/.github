@@ -28,7 +28,7 @@
 
 ## LIVE VERSIONS
 
-| [![angular headless hashnode dark](/profile/angular-headless-hashnode-dark.jpg)](https://hashnodeng.com/) | [![angular headless hashnode light](/profile/angular-headless-hashnode-light.jpg)](https://hashnodeng.com/) |
+| [![hashnodeng dark](/profile/angular-headless-hashnode-dark.jpg)](https://hashnodeng.com/) | [![hashnodeng light](/profile/angular-headless-hashnode-light.jpg)](https://hashnodeng.com/) |
 | - | - |                         
 
 ### You can see the live versions on the [DEMO SITE](https://hashnodeng.com/)                          

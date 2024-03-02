@@ -1,4 +1,4 @@
-# Contributing to Angular Headless Hashnode
+# Contributing to HashnodeNG
 
 First off, thanks for taking the time to contribute! ❤️
 
