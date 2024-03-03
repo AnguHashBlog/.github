@@ -1,14 +1,33 @@
 # AnguHashBlog 
 
+|![merge-animation](/profile/anguhashblog-animation.gif)| [![Discord](https://github.com/monacodelisa/icons-and-graphics/blob/main/icomoon/PNG/discord.png?raw=true)](https://discord.gg/3bS3xpCj) |
+|---|---|
 #### formerly known as - Angular Headless Hashnode
-## [![Discord](https://github.com/monacodelisa/icons-and-graphics/blob/main/icomoon/PNG/discord.png?raw=true)](https://discord.gg/3bS3xpCj) Open Source Project 
 
 ## Overview 
 
-### The **AnguHashBlog Project** aims to seamlessly connect your Angular application to the Hashnode GraphQL database, providing a template for integrating Angular with a headless Hashnode setup.
+### The **AnguHashBlog** Open Source Project 
+aims to seamlessly connect your Angular application to the Hashnode GraphQL database, providing a template for integrating Angular with a headless Hashnode setup.
 
-### In other words - this project is very much like the starter kit that Hashnode provides, except that this project uses Angular for the frontend 
-### so you can use your Hashnode blog with Angular ![angular logo](/profile/angular-new-icon.png)                     
+In other words - this project is very much like the starter kit that Hashnode provides, except that this project uses Angular for the frontend 
+### so you can use your Hashnode blog with Angular ![angular logo](/profile/angular-new-icon.png)
+
+## Existing Setup & Features
+
+- [Angular](https://angular.dev) v17 and up.
+- [Angular Material](https://material.angular.io/) - UI Library
+- [PrimeNG](https://primeng.org/) - UI Library
+- [Appolo Angular](https://the-guild.dev/graphql/apollo-angular/docs) - GraphQL Client for Angular
+- [Font Awesome Icons](https://fontawesome.com/)
+- [Google Material Symbols and Icons](https://fonts.google.com/icons)
+- [Google Fonts](https://fonts.google.com/)
+
+## LIVE VERSIONS
+
+| [![AnguHashBlog dark](/profile/AnguHashBlog-dark.jpg)](https://AnguHashBlog.com/) | [![AnguHashBlog light](/profile/AnguHashBlog-light.jpg)](https://AnguHashBlog.com/) |
+| - | - |                         
+
+### You can see the live versions on the [DEMO SITE](https://AnguHashBlog.com/)                             
 
 ## Contributing
 
