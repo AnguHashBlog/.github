@@ -1,12 +1,12 @@
-# HashnodeNG 
+# AnguHashBlog 
 
-|![merge-animation](/profile/hashnodeng-animation.gif)| [![Discord](https://github.com/monacodelisa/icons-and-graphics/blob/main/icomoon/PNG/discord.png?raw=true)](https://discord.gg/3bS3xpCj) |
+|![merge-animation](/profile/AnguHashBlog-animation.gif)| [![Discord](https://github.com/monacodelisa/icons-and-graphics/blob/main/icomoon/PNG/discord.png?raw=true)](https://discord.gg/3bS3xpCj) |
 |---|---|
 #### formerly known as - Angular Headless Hashnode
 
 ## Overview 
 
-### The **HashnodeNG** Open Source Project 
+### The **AnguHashBlog** Open Source Project 
 aims to seamlessly connect your Angular application to the Hashnode GraphQL database, providing a template for integrating Angular with a headless Hashnode setup.
 
 In other words - this project is very much like the starter kit that Hashnode provides, except that this project uses Angular for the frontend 
@@ -24,10 +24,10 @@ In other words - this project is very much like the starter kit that Hashnode pr
 
 ## LIVE VERSIONS
 
-| [![hashnodeng dark](/profile/angular-headless-hashnode-dark.jpg)](https://hashnodeng.com/) | [![hashnodeng light](/profile/angular-headless-hashnode-light.jpg)](https://hashnodeng.com/) |
+| [![AnguHashBlog dark](/profile/AnguHashBlog-dark.jpg)](https://AnguHashBlog.com/) | [![AnguHashBlog light](/profile/AnguHashBlog-light.jpg)](https://AnguHashBlog.com/) |
 | - | - |                         
 
-### You can see the live versions on the [DEMO SITE](https://hashnodeng.com/)                             
+### You can see the live versions on the [DEMO SITE](https://AnguHashBlog.com/)                             
 
 ## Contributing
 

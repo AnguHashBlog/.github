@@ -1,11 +1,11 @@
-# HashnodeNG 
+# AnguHashBlog 
 
 #### formerly known as - Angular Headless Hashnode
 ## [![Discord](https://github.com/monacodelisa/icons-and-graphics/blob/main/icomoon/PNG/discord.png?raw=true)](https://discord.gg/3bS3xpCj) Open Source Project 
 
 ## Overview 
 
-### The **HashnodeNG Project** aims to seamlessly connect your Angular application to the Hashnode GraphQL database, providing a template for integrating Angular with a headless Hashnode setup.
+### The **AnguHashBlog Project** aims to seamlessly connect your Angular application to the Hashnode GraphQL database, providing a template for integrating Angular with a headless Hashnode setup.
 
 ### In other words - this project is very much like the starter kit that Hashnode provides, except that this project uses Angular for the frontend 
 ### so you can use your Hashnode blog with Angular ![angular logo](/profile/angular-new-icon.png)                     
