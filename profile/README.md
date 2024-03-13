@@ -1,6 +1,6 @@
 # AnguHashBlog 
 
-|![merge-animation](/profile/anguhashblog-merge-animation.gif)| [![Discord](https://github.com/monacodelisa/icons-and-graphics/blob/main/icomoon/PNG/discord.png?raw=true)](https://discord.gg/3bS3xpCj) |
+|![merge-animation](/profile/anguhashblog-merge-animation.gif)| [![Discord](https://github.com/monacodelisa/icons-and-graphics/blob/main/icomoon/PNG/discord.png?raw=true)](https://discord.com/invite/h3JXbADsBy) |
 |---|---|
 #### formerly known as - Angular Headless Hashnode
 
