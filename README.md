@@ -14,7 +14,8 @@ In other words - this project is very much like the starter kit that Hashnode pr
 
 ## Existing Setup & Features
 
-- [Angular](https://angular.dev) v17 and up.
+- [Angular](https://angular.dev) - v17 and up
+- [Analog](https://analogjs.org/) - v1.0.2 and up
 - [Angular Material](https://material.angular.io/) - UI Library
 - [PrimeNG](https://primeng.org/) - UI Library
 - [Appolo Angular](https://the-guild.dev/graphql/apollo-angular/docs) - GraphQL Client for Angular
