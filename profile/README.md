@@ -7,7 +7,7 @@
 ## Overview 
 
 ### The **AnguHashBlog** Open Source Project 
-aims to seamlessly connect your Angular application to the Hashnode GraphQL database, providing a template for integrating Angular with a headless Hashnode setup.
+aims to seamlessly connect your Angular application to the Hashnode GraphQL API, providing a template for integrating Angular with a headless Hashnode setup.
 
 In other words - this project is very much like the starter kit that Hashnode provides, except that this project uses Angular for the frontend 
 ### so you can use your Hashnode blog with Angular ![angular logo](/profile/angular-new-icon.png)
